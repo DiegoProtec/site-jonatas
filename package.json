@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/DiegoProtec/site-jonatas/issues"
   },
-  "homepage": "https://github.com/DiegoProtec/site-jonatas#readme"
+  "homepage": "https://github.com/DiegoProtec/site-jonatas#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nedb": "^1.8.0"
+  }
 }
